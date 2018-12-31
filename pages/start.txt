@@ -3,3 +3,6 @@
 ## test2
 
 ### test3
+<plot gv>
+digraph G {a->b;}
+</plot>
