@@ -1,8 +1,8 @@
 # test
-```
+<code>
 FROM ubuntu
 RUN ls /
-```
+</code>
 
 {{rss>https://github.com/dokufreaks/plugin-feed/commits/master.atom}}
 哈哈哈a
